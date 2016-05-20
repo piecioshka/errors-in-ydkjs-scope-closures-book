@@ -1,0 +1,11 @@
+{
+    "name": "private",
+    "devDependencies": {
+        "babel-cli": "^6.9.0",
+        "babel-preset-es2015": "^6.9.0"
+    },
+    "scripts": {
+        "build:original": "babel-node original/baz.js",
+        "build:works": "babel-node works/baz.js"
+    }
+}
