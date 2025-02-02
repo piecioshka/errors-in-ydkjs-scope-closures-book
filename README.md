@@ -1,6 +1,6 @@
 # errors-in-ydkjs-scope-closures-book
 
-> Problem ze składnią ES6 znaleziony na stronie 84 w książce: ["Tajniki języka JavaScript. Zakresy i domknięcia"][1].
+📖 Problem ze składnią ES6 znaleziony na stronie 84 w książce: ["Tajniki języka JavaScript. Zakresy i domknięcia"][1].
 
 ## Problemy
 
