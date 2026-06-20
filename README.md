@@ -121,3 +121,7 @@ foo.awesome(); // POZWÓL, ŻE SIĘ PRZEDSTAWIĘ: HIPOPOTAM
 [1]: http://helion.pl/ksiazki/tajniki-jezyka-javascript-zakresy-i-domkniecia-kyle-simpson,tjszak.htm
 [2]: http://www.ecma-international.org/ecma-262/6.0/index.html#table-42
 [3]: http://www.ecma-international.org/ecma-262/6.0/index.html#table-40
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
